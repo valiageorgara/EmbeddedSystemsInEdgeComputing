@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="functions.hpp" path="/home/logikisxediasi/Downloads/2dconv_2nd/functions.hpp"/>
+    <originFiles name="functions.cpp" path="/home/logikisxediasi/Downloads/2dconv_2nd/functions.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="convolution.cpp" path="/home/logikisxediasi/Downloads/2dconv_2nd/convolution.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
